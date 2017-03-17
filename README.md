@@ -3,9 +3,9 @@
 * [Survey 2016](https://github.com/yuce/erlang-editor-support-survey-2016-03)
 * [Survey 2017](https://github.com/ErlangCentral/erlang-editor-support-survey-2017-02)
 
-![Which editor](https://raw.githubusercontent.com/erlangcentral/erlang-editor-support-survey-2017-02/master/charts/1-Which Erlang editor:IDE do you currently use.jpg)
+![Which editor](https://raw.githubusercontent.com/ErlangCentral/erlang-editor-support-survey-2017-02/master/charts/1-Which%20Erlang%20editor%3AIDE%20do%20you%20currently%20use.jpg)
 
-![Importance](https://raw.githubusercontent.com/erlangcentral/erlang-editor-support-survey-2017-02/master/charts/2-How important are these for you in an Erlang editor.jpg)
+![Importance](https://raw.githubusercontent.com/ErlangCentral/erlang-editor-support-survey-2017-02/master/charts/2-How%20important%20are%20these%20for%20you%20in%20an%20Erlang%20editor.jpg)
 
 ## If you voted "Other IDEs", what are they? Or anything else you expect in an IDE for Erlang? (Optional)
 
